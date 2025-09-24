@@ -1,13 +1,20 @@
 # Large imagery & model files
+<<<<<<< HEAD
 
 *.tiff
+=======
+>>>>>>> 0290408 (Add .tif files tracked by Git LFS)
 *.keras
 *.h5
 *.pt
 *.ckpt
 *.pb
 
+<<<<<<< HEAD
 # data folders
+=======
+# Patches and data folders/
+>>>>>>> 0290408 (Add .tif files tracked by Git LFS)
 data/
 models/
 checkpoints/
