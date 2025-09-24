@@ -1,5 +1,5 @@
 # Large imagery & model files
-*.tif
+
 *.tiff
 *.keras
 *.h5
@@ -7,9 +7,7 @@
 *.ckpt
 *.pb
 
-# Patches and data folders
-Patches/
-patches/
+# data folders
 data/
 models/
 checkpoints/
