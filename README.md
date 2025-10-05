@@ -27,7 +27,7 @@ Scripts allow batch processing and integration into larger pipelines.
 
 ## Notes
 
-Large data files and trained models are tracked using Git LFS, so they are included in the repository without exceeding GitHub file limits.  
+Large data files are tracked using Git LFS, so they are included in the repository without exceeding GitHub file limits.  
 
 Ensure Git LFS is installed when cloning the repository:
 
